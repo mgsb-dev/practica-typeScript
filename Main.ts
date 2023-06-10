@@ -44,7 +44,6 @@ const generarTelefono = (tipo: string, telefono: string): Telefono => {
   return new Telefono(tipo, telefono);
 };
 
-console.log("persona-->", personaAEditar);
 
 if (personaAEditar) {
   const nuevaDireccion = generarDireccion(

@@ -36,6 +36,6 @@ if (personaAEditar) {
 else {
     console.log("No se encontró ninguna persona con el DNI especificado.");
 }
-console.log("Registro de Persona 1:", DummyPersona_1.personaUno);
-console.log("Registro de Persona 2:", DummyPersona_1.personaDos);
-console.log("Registro de Persona 3:", DummyPersona_1.personaTres);
+console.log("Registro de Persona Uno:", DummyPersona_1.personaUno);
+console.log("Registro de Persona Dos:", DummyPersona_1.personaDos);
+console.log("Registro de Persona Tres:", DummyPersona_1.personaTres);
